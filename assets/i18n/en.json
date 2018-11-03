@@ -1,0 +1,175 @@
+{
+  "anms.title": "Angular NgRx Material Starter",
+  "anms.title.short": "Angular Starter",
+  "anms.company-name.short": "SPC",
+  "anms.company-name.long": "Smart Process Calculation Ltd",
+  "anms.header.github": "Project Github Repository",
+  "anms.footer.changelog": "Show changelog",
+  "anms.menu.profile": "Profile",
+  "anms.menu.about": "About",
+  "anms.menu.features": "Features",
+  "anms.menu.examples": "Examples",
+  "anms.menu.settings": "Settings",
+  "anms.menu.login": "Sign in",
+  "anms.menu.logout": "Logout",
+  "anms.about.change-theme": "Change Theme",
+  "anms.about.check-blogs": "or check blogs about",
+  "anms.about.get-started": "Get stared",
+  "anms.about.get-notified": "Get notified about new releases",
+  "anms.about.get-notified.follow": "Follow",
+  "anms.about.get-notified.description":
+    "a Twitter bot that helps you to stay up to date with releases of popular frontend frameworks & libraries!",
+  "anms.about.contributors": "Contributors",
+  "anms.about.contributors.description1":
+    "Want to start contributing to open source with Angular?",
+  "anms.about.contributors.description2":
+    "Leave your mark and join the growing team of contributors!",
+  "anms.about.contributors.description3": "Get started by having a look on ",
+  "anms.about.contributors.description4": " and ",
+  "anms.about.contributors.issues": "open issues",
+  "anms.about.contributors.guide": "Contributor guide",
+  "anms.features.title": "Features",
+  "anms.features.documentation": "Docs",
+  "anms.features.guide": "Guide",
+  "anms.features.angular": "Modern powerful framework",
+  "anms.features.angular-material": "Material design component library",
+  "anms.features.angular-cli": "A command line interface for Angular",
+  "anms.features.ngrx": "One way data flow powered by RxJS Observables",
+  "anms.features.ngxtranslate": "An internationalization library for Angular",
+  "anms.features.rxjs":
+    "Reactive programming with async collections using Observables",
+  "anms.features.bootstrap":
+    "Responsive layout from battle tested, world most famous UI library",
+  "anms.features.typescript":
+    "Superior developer experience, code completion, refactoring and less bugs",
+  "anms.features.fontawesome": "Easy to use vector icons and social logos",
+  "anms.features.themes":
+    "Flexible theming support for provided and custom components",
+  "anms.features.themes.title": "Themes",
+  "anms.features.lazyloading":
+    "Faster startup time with lazy loaded feature modules",
+  "anms.features.lazyloading.title": "Lazy loading",
+  "anms.settings.title": "Settings",
+  "anms.settings.general": "General",
+  "anms.settings.general.placeholder": "Language",
+  "anms.settings.general.language.en": "English",
+  "anms.settings.general.language.sk": "Slovak",
+  "anms.settings.general.language.de": "German",
+  "anms.settings.themes": "Themes",
+  "anms.settings.themes.placeholder": "Color Theme",
+  "anms.settings.themes.blue": "Blue",
+  "anms.settings.themes.light": "Light",
+  "anms.settings.themes.nature": "Nature",
+  "anms.settings.themes.dark": "Dark",
+  "anms.settings.themes.night-mode": "Auto night mode (from 21:00 to 7:00)",
+  "anms.settings.animations": "Animations",
+  "anms.settings.animations.page": "Navigation whole page transition",
+  "anms.settings.animations.elements": "Navigation page elements slide up",
+  "anms.menu.project.create": "Project create",
+  "anms.sidenav.project-management": "Projects Management",
+  "anms.sidenav.product-management": "Products Management",
+  "anms.sidenav.article-management": "Articles Management",
+  "anms.sidenav.base-data": "Base data",
+  "anms.sidenav.customers": "Customers",
+  "anms.sidenav.units": "Units",
+  "anms.sidenav.ressources": "Ressources",
+  "anms.sidenav.work-step-plan": "Work Plans",
+  "anms.sidenav.calculation": "Calculation",
+  "anms.sidenav.ressource.capazity": "Capazities",
+  "anms.sidenav.work-step": "Work Steps",
+  "anms.sidenav.work-step.step": "Work Sub Steps",
+  "anms.sidenav.work-step.step.section": "Work Sub Step Sections",
+  "anms.sidenav.cost-types": "Cost Types",
+  "anms.sidenav.cost-area": "Cost Area",
+  "anms.sidenav.dashboard" : "Dashboard",
+
+  "calc.user": {
+    "login" : {
+      "header": "Login",
+      "email": "Email",
+      "placeholder.email": "Email",
+      "password": "Password",
+      "button.login": "Login",
+      "button.cancel": "Cancel",
+      "footer.not-registered-yet": "Not registered yet?"
+    },
+    "sign-up": {
+      "header": "Sign up",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "password": "Password",
+      "button.sign-up": "Save",
+      "footer.already-registered": "Already registered?"
+    },
+    "profile": {
+      "header": "User profile",
+      "header.tooltip.button.update": "Save",
+      "email": "Email",
+      "firstName": "First name",
+      "lastName": "Last name"
+    }
+
+  },
+
+  "calc.dashboard.title": "Dashboard",
+  "calc.project.description": "Description" ,
+  "calc.projects": {
+    "table.header": "Projects",
+    "table.button.new-project": "New",
+    "table.column.project-number": "Project number",
+    "table.column.project-type": "Project type",
+    "table.column.customer-number": "Customer number",
+    "table.column.created-by": "Created by",
+    "table.column.created-date": "Created on",
+    "table.column.description": "Description",
+
+    "new-project.header.create-new-project": "New project",
+    "new-project.field.project-type": "Project type",
+    "new-project.field.customer": "Customer",
+    "new-project.field.created-by": "Created by",
+    "new-project.field.date": "Created on",
+    "new-project.field.description": "Description",
+    "new-project.button.save": "Save",
+    "new-project.button.cancel": "Cancel"
+  },
+  "calc.project-position": {
+    "table.column.project-position": "Position",
+    "table.column.product-number": "Product number",
+    "table.column.product-quantity": "Quantity"
+  },
+  "calc.project-position-detail": {
+    "position-number": "Position",
+    "quantity": "Quantity",
+    "product-number": "Product number",
+    "button.add": "Add"
+  },
+  "calc.project-detail": {
+    "header": "Project",
+    "header.button.save": "Save",
+    "header.button.update": "Update",
+    "header.button.back": "Back",
+    "mat-tab.label.position": "Position"
+  },
+  "calc.products.table": {
+    "header": "Products",
+    "column.product-number": "Product number",
+    "column.product-name-1": "Product name 1",
+    "column.product-name-2": "Product name 2",
+    "button.new-product": "New"
+  },
+  "calc.product-detail": {
+    "header": "Product",
+    "header.button.back": "Back",
+    "header.button.update": "Update",
+    "mat-tab.label.production-plan": "Production plan",
+    "mat-tab.label.product-structure": "Product structure"
+  },
+  "calc.product-structure": {
+    "menu": "Product structure",
+    "breadcrumb" : "Product structure",
+    "header": "Product structure",
+    "header.button.back": "Back",
+    "header.button.update": "Update"
+  }
+}
